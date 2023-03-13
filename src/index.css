@@ -1,0 +1,25 @@
+:root {
+  --background-light-1: linear-gradient(109.8deg, #ffefd9 0%, #ffffff 50%);
+  --background-light-2: #FEE7DB;
+  --background-dark-1: linear-gradient(to right bottom,
+      #2d0d00,
+      #250a05,
+      #1d0607,
+      #120305,
+      #000000);
+  --background-dark-2: #2D0D00;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-image: var(--background-dark-1);
+}

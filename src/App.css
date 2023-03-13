@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+.nav {
+  width: 200px;
+  min-height: 100vh;
+  background-color: var(--background-dark-2);
+}
+
+.logo {
+  width: 80px;
+  height: 80px;
+  margin-top: 20px;
+}
+
+.level {
+  width: 80px;
+  height: 80px;
+  cursor: pointer;
+}
